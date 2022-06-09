@@ -1,0 +1,13 @@
+$primarycolor : lightblue;
+$btncolor : orange;
+
+
+body{
+    background-color: $primarycolor;
+}
+button {
+    background-color: $btncolor;
+    font-family: sans-serif;
+    width: 100px;
+    height: 40px;
+}
